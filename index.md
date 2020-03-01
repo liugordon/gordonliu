@@ -4,9 +4,27 @@
 
 ### 研究學習方向
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 - 數據分析
-- 數據需求分析
+- 需求分析
+- 數據建模
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
